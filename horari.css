@@ -1,0 +1,46 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse; 
+    margin: auto;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+
+caption {
+    color: rgb(20, 55, 107);
+    font-size: 25px;
+}
+th {
+    width: 100px;
+    background-color: rgb(38, 239, 38);
+    text-align: center;
+    font-weight: bold;
+}
+.lmsgi {
+    background-color: aqua;
+}
+.bd {
+    background-color: blueviolet;
+}
+.ped {
+    background-color: rgb(7, 237, 130);
+}
+.si {
+    background-color: skyblue;
+}
+.tut {
+    background-color: orange;
+}
+.ang {
+    background-color: brown;
+}
+.ipoi {
+    background-color: teal;
+}
+.diw {
+    background-color: rgb(191, 227, 227);
+}
